@@ -1,7 +1,8 @@
 # The Azure Kubernetes Workshop
 
+
 - [Workshop Guide](https://aksworkshop.io/)
-- [GitHub Gist](https://bit.ly/2VzfvRe)
+- [GitHub Gist](https://gist.github.com/mohcinemadkour/eb0cedbd395755839e2e3cb1980e611b)
 
 ## Setup
 
